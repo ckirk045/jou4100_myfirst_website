@@ -1,0 +1,9 @@
+img {
+    max-width: 600px;
+}
+.intropara {
+    font-size: 14px; color: red; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+abbr{
+    display: inline;
+}
